@@ -1,0 +1,26 @@
+{
+  "name": "CPAReady.ph",
+  "short_name": "CPAReady",
+  "description": "Duolingo-style CPALE board exam prep for Filipino BSA students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090F",
+  "theme_color": "#07090F",
+  "orientation": "portrait-primary",
+  "lang": "en-PH",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
